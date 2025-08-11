@@ -18,4 +18,7 @@
 
 # Conclusion and Future works 
 
+# env
+frozenlake pointax classic control(1)
 
+scatter plot of mountaincar
